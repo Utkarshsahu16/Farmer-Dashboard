@@ -17,5 +17,5 @@ Included within the `.pbit` file
 - KPIs and trend analysis  
 - Region-wise breakdown  
 - Interactive filters and visuals
-
-https://github.com/Utkarshsahu16/Farmer-Dashboard/blob/main/image.png
+- 
+https://github.com/Utkarshsahu16/Farmer-Dashboard/blob/main/Farmer%20Dashboard%20Images/Screenshot%202025-07-17%20114402.png
